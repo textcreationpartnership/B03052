@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address agreed upon at the committee for the French War, and read in the House of Commons April the 19th, 1689.</title>
+            <author>England and Wales. Parliament. House of Commons. Committee for the French War.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03052</idno>
+            <idno type="STC">Wing E2513B</idno>
+            <idno type="STC">ESTC R170061</idno>
+            <idno type="EEBO-CITATION">52528814</idno>
+            <idno type="OCLC">ocm 52528814</idno>
+            <idno type="VID">178787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178787)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address agreed upon at the committee for the French War, and read in the House of Commons April the 19th, 1689.</title>
+                  <author>England and Wales. Parliament. House of Commons. Committee for the French War.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb n="1" facs="tcp:178787:1" rendition="simple:additions"/>
+            <head>An <hi>Addreſs</hi> agreed upon at the Committee, for the <hi>French VVar,</hi> and Read in the Houſe of Commons, <hi>April 19. 1689.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed, and Entred according to Law.</p>
+               </body>
+            </floatingText>
+            <p>WE Your Majeſties moſt Loyal Subjects the Commons of <hi>England</hi> in Parliament Aſſembl<g ref="char:EOLhyphen"/>ed, have taken into our moſt ſerious Conſide<g ref="char:EOLhyphen"/>ration the Condition and State of this Nation in reſpect of <hi>France,</hi> and Foreign Alliances; In order to which we have Examined the Miſchiefs brought upon Chriſtendom in late Years by the <hi>French</hi> Ring, who, without any reſpect to Iu<g ref="char:EOLhyphen"/>ſtice, has by Fraud and Force endeavoured to ſubject it to an Arbitrary and univerſal Monarchy.</p>
+            <p>In Proſecution of this Deſign ſo pernicious to the Re<g ref="char:EOLhyphen"/>poſe and ſafety of <hi>Europe,</hi> he has neglected none of thoſe means how indirect ſoever, which his Ambition or Avarice could ſuggeſt to him. The Faith of Treaties among all Princes, eſpecially Chriſtian Princes, ever held moſt Invi<g ref="char:EOLhyphen"/>olable, has never been able to refir in him, nor the ſolem<g ref="char:EOLhyphen"/>neſt Oaths to bind him, when any Occaſion preſented it ſelf for Extending the Limits of his Kingdom, or Oppreſſing thoſe whom his Intereſt inclined him to Qualifie by the Name of his Enemies. Witneſs his haughty and ground<g ref="char:EOLhyphen"/>leſs <hi>Declaration of Warr</hi> againſt the <hi>States General</hi> of the <hi>Unit<g ref="char:EOLhyphen"/>ted Provinces</hi> in the Year <hi>1672,</hi> in which he aſſigned no other Reaſon for diſturbing that profound Peace, which through Gods Mercy, all <hi>Europe</hi> enjoyed at that time, But his own glory and his Reſolution to puniſh the <hi>Dutch,</hi> for ſome ima<g ref="char:EOLhyphen"/>ginary flights and diſreſpects, which he would have had the World believe they had put upon him: whereas the true Occaſion of that War was nothing elſe but a formed deſign laid down and agreed upon by that King and his Accomp<g ref="char:EOLhyphen"/>lices, for the ſubverſion of the Liberties of <hi>Europe,</hi> and for Aboliſhing the Common-Wealth of <hi>Holland,</hi> as being too dangerous an Example of Liberty to the ſubjects of neigh<g ref="char:EOLhyphen"/>bouring Monarchs. The Zeal for Catholick Religion which was pretended by him in this &amp; the following wars, did afterwards ſufficiently appear to the World, to be no other than a Cloak for his unmeaſurable Ambition; For at the ſame time when the Perſecution gre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt againſt the Proteſtants of <hi>France,</hi> Letters were intercepted (and Publiſhed) from him to Count <hi>Teckery,</hi> to give him the greateſt Incouragement, and promiſe him the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>moſt A<g ref="char:EOLhyphen"/>ſiſtance in the War, which in Conjunction with the E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk he then mannaged againſt the firſt and greateſt of all the Roman Catholick Princes.</p>
+            <pb n="2" facs="tcp:178787:2"/>
+            <p>Witneſs alſo the many open infractions of the Treaties, both of <hi>Aix la Chapelle</hi> and <hi>Nimeguen</hi> (whereof Your Ma<g ref="char:EOLhyphen"/>jeſt is the ſtrongeſt Guarranty) upon the moſt frivolous Pretences imaginable, of which the moſt uſual was that of Dependancies; an Invention ſet on foot on purpoſe to ſerve for a pretext of Rupture with all his Neighbors, un<g ref="char:EOLhyphen"/>leſs they choſe rather to ſatisfie his Endleſs Demands, by abandoning on<g ref="char:cmbAbbrStroke">̄</g>e Place after another, to his inſatiable appe<g ref="char:EOLhyphen"/>tite of Empire, &amp; for maintaining whereof, the two Cham<g ref="char:EOLhyphen"/>bers of <hi>Metz</hi> and <hi>Briſſach</hi> were, Erected to find out and forge Titles, and to invent Equivocal Conſtructions for eluding the plain meaning of Treaties Concluded and ſworn with the greateſt Solemnity, and than which nothing can be more Sacred among Mankind.</p>
+            <p>From hence it was alſo that <hi>Srasburg</hi> was ſo infamouſly Surprized by the <hi>French</hi> King in a time of full Peace, and though great Conditions were Agreed and promiſed to the Inhabitants of that City, yet no ſooner was he in Poſſeſſi<g ref="char:EOLhyphen"/>on of it, but all Stipulations were forgotten, and that Ancient free City doth now groan under the ſame Yoke with the reſt of that King's Subjects.</p>
+            <p>The building the Fort of <hi>Hunningen</hi> contrary to ſo many ſolemn Aſſurances given to the Switzes, and the Affair of <hi>Luxemburgh</hi> are too well known to need a particular De<g ref="char:EOLhyphen"/>duction. In a word, the whole Series of the French Kings Actions for many Years laſt paſt has been ſo ordered, as if it were his intention not only to render his own people extrem<g ref="char:EOLhyphen"/>ly miſerable, by intollerable impoſition of Tares, to be em<g ref="char:EOLhyphen"/>ployed in maintaining an incredible Number of Dragoons and other Souldiers, to be the inſtruments of his Cruelty upon ſuch of them as refuſe in all things to comply with his unjuſt Commands, but likewiſe to hold all the neighbour<g ref="char:EOLhyphen"/>ing Powers in perpetual Alarm and Expence for the main<g ref="char:EOLhyphen"/>taining of Armies and Fleets, that they may be in a poſture to defend themſelves againſt the Invador of their common ſafety and Liberties.</p>
+            <p>Examples of this ſort might be innumerable, but his In<g ref="char:EOLhyphen"/>vaſion of <hi>Flanders</hi> and <hi>Holland</hi> ſince the laſt Truce of <hi>1684.</hi> and the Outrages committed upon the Empire by attack<g ref="char:EOLhyphen"/>ing the Fort of <hi>Philipsburg,</hi> without any Declaration of war at the ſame time that his Imperial Majeſty was imploy<g ref="char:EOLhyphen"/>ing all his Forces againſt the common Enemy of the Chri<g ref="char:EOLhyphen"/>ſtian Faith, and his waſting the <hi>Palatinate</hi> with fire and ſword and murdering an infinite number of innocent Perſons for no other Reaſons <g ref="char:punc">▪</g> as himſelf has
+<pb n="3" facs="tcp:178787:2"/>publickly declared, but becauſe he thought the <hi>Electo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pala<g ref="char:EOLhyphen"/>tine</hi> faithful to the intereſt of the Empire, and an Obſtacle to the compaſſing his ambitious Deſigns, are ſufficient Inſtances of this.</p>
+            <p>To theſe we cannot, but with a particular Reſent<g ref="char:EOLhyphen"/>ment add the injuries done to your Majeſty in the moſt un<g ref="char:EOLhyphen"/>juſt and violent ſeizing of your Principality of <hi>Orange,</hi> and the utmoſt Inſolencies committed on the Perſons of your Majeſties Subjects there; and how to facilitate his Con<g ref="char:EOLhyphen"/>queſts upon his Neighbour Princes, he ingaged the Turks in a war againſt Chriſtendom at the ſame time.</p>
+            <p>And as if violating of Treaties, and ravaging the Coun<g ref="char:EOLhyphen"/>tries of his Neighbours States were not ſufficient means of advancing his exorbitant Power and Greatneſs, he has con<g ref="char:EOLhyphen"/>ſtantly had recourſe to the vileſt and meaneſt Arts, for the Ruine of thoſe, whom he had taken upon him to ſubdue to his will and power, inſinuating himſelf by his Emiſſaries un<g ref="char:EOLhyphen"/>der the ſacred Name and Character of <hi>Publick Miniſters,</hi> into thoſe who were intruſted in the Government of Kingdoms and States, ſuborning them by Gifts and penſions, to the ſelling their Maſters and betraying their Truſts, and de<g ref="char:EOLhyphen"/>ſcending even to Intrigues by women, who were ſent or married into the Countries of diverſe potent Princes, to lie as Snakes in their Boſoms to eat out of their Bowels, or to inſtil that Poyſon into them which might prove the De<g ref="char:EOLhyphen"/>ſtruction of them and their Countries, of which <hi>Poland, Sav<g ref="char:EOLhyphen"/>oy</hi> and <hi>Spain,</hi> to mention no more at preſent, can give but too ample Teſtimonies.</p>
+            <p>The inſolent Vſe he has made of his ill-gotten Greatneſs has been as Extravagant as the means of procuring it, for this the ſingle Inſtance of <hi>Genoa</hi> may ſuffice; which with<g ref="char:EOLhyphen"/>out the leaſt notice or any Ground of a quarrel whatſoever was bombarded by the <hi>French</hi> Fleet, and the Doge and four Principal Senators of that Free: State conſtrained in perſon to humble themſelves at that Monarchs Feet; which in the Style of <hi>France</hi> was called <hi>Chaſtiſing Soveraigns for caſting Umbrage upon his Greatneſs.</hi>
+            </p>
+            <p>His Practiſes againſt England have been of the ſame nature, and by corrupt means he has conſtantly and with too much Succeſs en<g ref="char:EOLhyphen"/>deavoured to get ſuch Power in the Court of England, in the time of King Charles the Second and the late King Iames, as might by degrees undermine the Government and true Intereſt of this flouri<g ref="char:EOLhyphen"/>ſhing Kingdom.</p>
+            <p>Another Art which he has uſed to weaken England, and ſubject it to his aſpiring Deſigns, was never to admit an equal Bal<g ref="char:EOLhyphen"/>lance of Trade, nor conſent to any juſt Treaty or Settlement of Com<g ref="char:EOLhyphen"/>merce, by which he promoted our Ruine at our own Charge.</p>
+            <pb n="4" facs="tcp:178787:3"/>
+            <p>When from a Iuſt Apprehenſion of this formidable growing Power of France, the Nation became zealous to right themſelves; and the Houſe of Commons, in the year. <hi>1677.</hi> being aſſured they ſhould have an actual War againſt France, cheerfully raiſēd a great Sum of Money, and an Army as readily appeared to carry on the War; that Intereſt of France had ſtill power enougd to render all this ineffectual, and to fruſtrate the Nation of all their Popes and Expectations.</p>
+            <p>Nor did France only tender this deſired War ineffectual, but had Power enough to make us practice their Injuſtice and Irregulari<g ref="char:EOLhyphen"/>ties, (ſome years before) by turning our Force againſt out next Neighbours, by aſſaulting their Smirna Fleet.</p>
+            <p>Nor were they more Induſtrious, by Corrupt Means, to obtain this Power, than careful, by the ſame ways to ſupport it; and knowing that from Parliaments only could probably proceed an Ob<g ref="char:EOLhyphen"/>ſtruction to their Secret Practiſes, they attempted to make a Bar<g ref="char:EOLhyphen"/>gain, That they ſhould not meet in ſuch a time; in which they might hope to perfect their Deſigns of enſlaving the Nation.</p>
+            <p>In the ſame Confidence of this Power they violently ſeized upon part of Hudſon's Bay; and when the matter was complained of by the Company, and the Injury offered to be proved, the beſt Expedi<g ref="char:EOLhyphen"/>ent France could find to cover their Injuſtice, and prevent Satisfa<g ref="char:EOLhyphen"/>ction, was to make uſe of their great Intereſt in the Court of Eng<g ref="char:EOLhyphen"/>land to keep it from ever coming to be heard.</p>
+            <p>The French King, in purſuance of his uſual Methods, of laying hold of any Opportunity that might increaſe his Power, and give Diſturbance to others, has now carried on an actual War in Ire<g ref="char:EOLhyphen"/>land, ſending thither a great number of Officers with Money, Arms and Ammunition, and under the pretence of aſſiſting the late King Iames, he has taken the Government of Affairs into his Hands, by putting all Officers into <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and managing the whole Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs by his Miniſters, and has already begun to uſe the ſame Cruelties and Violences upon your Majeſty's Subiects, as he has lately practiſed in his own Dominions, and in all other places, where he has got Power enough to deſtroy.</p>
+            <p>Laſtly, The French King's Declaration of War againſt the Crown of Spain, is wholly grounded upon its Friendſhip to your Maieſty's Royal Perſon, and no other cauſe of denouncing War a<g ref="char:EOLhyphen"/>gainſt it is therein alledged, than the Reſolution taken in that Court, to favour your Maieſty, whom he moſt injuriouſly terms, the V<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>per of England, an Inſolence never-enough to be reſented and deteſted by your Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty's Subiects.</p>
+            <p>After our humble Repreſentation of all theſe Particulars to your Ma<g ref="char:EOLhyphen"/>jeſty, your Majeſty ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l think fit to enter into War againſt France, We <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſure Your Majeſty, That we will give you ſuch Aſſiſtance in a Parliamentary way, as ſhall enable your Maieſty to ſupport and go through the ſame; and we ſhal not doubt, but by the Bleſſing of God upon your Majeſty's prudent Conduct, a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p may be put to that growing Greatneſs of the French King, which <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>aties all Chri<g ref="char:EOLhyphen"/>ſtendom with <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> abſolute Sla<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y, the incredible quantity of Innocent Bloodſhed may <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>venged, his Oppreſſed Neighbours reſtored to their Iuſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rights and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, your Majeſty's Alliances and the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty of N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n ſupported to that degree, that all Eu<g ref="char:EOLhyphen"/>rope in General, and this Nation in Particular may for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Majeſty, as the great <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Iuſtice and Liberty, and the <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ſer and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>er of all Violence, Cruelty and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Power.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
